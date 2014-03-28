@@ -1,0 +1,11 @@
+# Tool config file
+# Leading hash for comment
+# Syntax
+# "Tool name" "Path to run tool with arguments"
+# Tool name should be same as in schema - case sensitive!
+
+Droid C:\personal\Software\droid\droid-cl.jar
+Tika C:\personal\Software\Tika\tika-app-1.3.jar
+NLMET C:\personal\MetadataExtractor\metadata-extractor\extract.bat
+ExifTool C:\personal\exiftoolgui\exiftoolgui\exiftool.exe
+Jhove C:\personal\Software\jhove\jhove\

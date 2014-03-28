@@ -1,0 +1,14 @@
+Item_ID,Droid,ID
+Item_Parent,Droid,PARENT_ID
+Item_Path,Droid,FILE_PATH
+Item_Name,Droid,NAME
+Item_Size,Droid,SIZE
+MD5_Checksum,Droid,MD5_HASH
+Item_Format,Droid,FORMAT_NAME
+Item_Format_Version,Droid,FORMAT_VERSION
+Creator,Tika,dc:creator
+Subject,Tika,dc:subject
+Application,Tika,Application-Name
+Creating_Agency,ExifTool,Company
+Format_Jhove,Jhove,Format
+Language,NLMET,LANG
